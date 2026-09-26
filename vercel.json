@@ -4,7 +4,7 @@
   "trailingSlash": false,
   "redirects": [
     {
-      "source": "/53.html",
+      "source": "/index.html",
       "destination": "/",
       "statusCode": 301
     }
